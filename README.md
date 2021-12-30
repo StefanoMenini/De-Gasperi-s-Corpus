@@ -5,3 +5,5 @@ The corpus of Alcide De Gasperi's public documents is a collection of 2,762 docu
 
 An online platform to explore the corpus without downloading it can be accessed at http://alcidedigitale.fbk.eu
 
+If you use this corpus, please cite:
+Tonelli, S., Sprugnoli, R., Moretti, G., & Kessler, F. B. "Prendo la Parola in Questo Consesso Mondiale: A Multi-Genre 20th Century Corpus in the Political Domain". In Proceedings of CLiC-it 2019. http://ceur-ws.org/Vol-2481/paper71.pdf
